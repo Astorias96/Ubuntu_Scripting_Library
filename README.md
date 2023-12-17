@@ -6,12 +6,12 @@ This repository serves as a collection of bash/shell scripts that were developpe
 The usage and results of these scripts may vary depending on your infrastructure versionning.
 Each script is documented on how it should be used.
 Below are the supported systems:
-- Ubuntu 16.04 (LTS) (to be tested)
+- Ubuntu 16.04 (LTS) (to be confirmed)
 - Ubuntu 18.04 (LTS)
 - Ubuntu 20.04 (LTS)
 - Ubuntu 21.04
 - Ubuntu 21.10
-- Ubuntu 22.04 (LTS) (to be tested)
+- Ubuntu 22.04 (LTS)
 - Debian 11 (to be tested)
 
 
