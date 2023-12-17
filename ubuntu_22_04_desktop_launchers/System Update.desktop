@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Terminal=true
+Name=System Update
+Icon=/home/$user/.icons/Cupertino-Sonoma/categories/128/package_network.png
+Exec=/home/$user/ubuntu_22_04_start_system_maintenance.sh
